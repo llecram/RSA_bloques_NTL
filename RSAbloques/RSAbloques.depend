@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1538806277 source:d:\programas hechos por mi\rsabloques\main.cpp
+	"rsa.h"
+
+1538805526 source:d:\programas hechos por mi\rsabloques\operaciones.cpp
+	"operaciones.h"
+
+1538805526 d:\programas hechos por mi\rsabloques\operaciones.h
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<NTL/ZZ.h>
+
+1538806087 source:d:\programas hechos por mi\rsabloques\src\rsa.cpp
+	"rsa.h"
+	"rsa.h"
+
+1538805742 d:\programas hechos por mi\rsabloques\include\rsa.h
+	"..\operaciones.h"
+
